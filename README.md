@@ -1,4 +1,4 @@
-Hi, I'm Erik Luebbers
+## Hi, I'm Erik Luebbers
 
 I'm a software engineer daily working to grow a stronger foundation in JavaScript, Ruby on Rails, and React.
 
